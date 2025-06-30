@@ -1,9 +1,5 @@
-/69.18.pth
-/69.60.pth
-/74.19%-8-6-5e-05.pth
-/85.53%-epoch2-bs32-lr5e-05.pth
-/94.00%-epoch4-bs16-lr0.0001.pth
-/Code_Analysis_Report.md
+/*.pth
+/*.md
 /dataset1
 /dataset2
 /dataset3
