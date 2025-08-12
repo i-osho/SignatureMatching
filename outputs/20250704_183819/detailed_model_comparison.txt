@@ -1,0 +1,32 @@
+Detailed Model Comparison Results
+Generated on: 2025-07-04 20:32:27
+========================================
+
+Dataset Information:
+Total pairs: 19200
+Genuine pairs: 4200
+Forged pairs: 15000
+
+Best SIA Model Results:
+Optimal Threshold: 0.4
+Accuracy: 0.765
+Precision: 0.478
+Recall: 0.835
+F1-Score: 0.608
+AUC: 0.863
+
+Best 80 Model Results:
+Optimal Threshold: 0.5
+Accuracy: 0.750
+Precision: 0.459
+Recall: 0.803
+F1-Score: 0.584
+AUC: 0.840
+
+Average Model Results:
+Optimal Threshold: 0.7
+Accuracy: 0.831
+Precision: 0.584
+Recall: 0.796
+F1-Score: 0.674
+AUC: 0.895
